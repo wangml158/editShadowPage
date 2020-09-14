@@ -1,0 +1,19 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+body{
+    background: #9796f0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    font-family: 'Kirang Haerang', cursive;
+    font-size: 36px;
+    font-weight: bold;
+}
+#text{
+    outline: none;
+    color: white;
+}
